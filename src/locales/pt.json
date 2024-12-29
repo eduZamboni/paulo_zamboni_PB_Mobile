@@ -1,0 +1,22 @@
+{
+  "welcome": "Bem-vindo ao Comparador de Filmes",
+  "login": "Entrar",
+  "signup": "Criar Conta",
+  "logout": "Sair",
+  "settings": "Configurações",
+  "home": "Início",
+  "language": "Idioma",
+  "theme": "Tema",
+  "todosGeneros": "Todos os Gêneros",
+  "compareDecades": "Comparação de Décadas",
+  "configurations": "Configurações",
+  "logIn": "Log In",
+  "createAccount": "Criar Conta",
+  "daDecada": "Top 10 Filmes da década de ",
+  "backHome": "Voltar",
+  "notifications": "Notificações",
+  "profile": "Perfil",
+  "back": "Voltar",
+  "emailPlaceholder": "Email",
+  "passwordPlaceholder": "Senha"
+}

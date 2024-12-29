@@ -1,0 +1,22 @@
+{
+  "welcome": "Welcome to Movie Comparator",
+  "login": "Login",
+  "signup": "Sign Up",
+  "logout": "Log Off",
+  "settings": "Settings",
+  "home": "Home",
+  "language": "Language",
+  "theme": "Theme",
+  "todosGeneros": "All Genres",
+  "compareDecades": "Decade Comparison",
+  "configurations": "Configurations",
+  "logIn": "Log In",
+  "createAccount": "Create Account",
+  "daDecada": "Top 10 Movies of the ",
+  "backHome": "Return",
+  "notifications": "Notifications",
+  "profile": "Profile",
+  "back": "Return",
+  "emailPlaceholder": "Email",
+  "passwordPlaceholder": "Password"
+}
